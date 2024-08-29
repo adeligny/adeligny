@@ -8,6 +8,10 @@
 
 I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.
 
+### 🛠️ Languages and Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="/assets/226051.webp"></a>
+<a href="https://www.sas.com/fr_fr/home.html" target="_blank"><img align="left" alt="SAS" height ="42px" src="/assets/353456.webp"></a>
+
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
