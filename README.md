@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Anaïs Deligny!
 <a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='18px'/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anaïs Deligny-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anais-deligny/)](https://www.linkedin.com/in/anais-deligny/)
-
 Welcome to my profile!
 
 <!--
