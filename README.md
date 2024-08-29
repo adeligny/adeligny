@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anaïs !
+## Hi there 👋 I'm Anaïs!
 <a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='18px'/></a>
 <br> 
 ### Welcome to my profile! 
