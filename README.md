@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Anaïs Deligny!
 <a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='18px'/></a>
-
-<br> Welcome to my profile!
+<br>
+<br> 
+Welcome to my profile!
 
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
