@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='18px'/></a>
 <br>
 <br> 
-Welcome to my profile!
+Welcome to my profile! I'm a graduate in Computer Science 💻 and Economics/Management 📈.
 
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
