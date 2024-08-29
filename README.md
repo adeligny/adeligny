@@ -3,7 +3,7 @@
 <br> 
 ### Welcome to my profile! 
 
-I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing department, and a master's student in innovation management, data science and communication at the University Paris 1 Panthéon-Sorbonne.
+I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.
 
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
