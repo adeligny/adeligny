@@ -3,7 +3,7 @@
 <br> 
 ### Welcome to my profile! 
 
-I am a graduate in Computer Science 💻 and Economics/Management 📈.
+I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently doing an apprenticeship at GMF Assurances as a Data Analyst in the marketing department.
 
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
