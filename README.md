@@ -20,8 +20,9 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 
 <br>
 <br> 
+<br>
 
-### More About Me:
+### 👀 More About Me:
 
 I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
