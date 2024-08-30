@@ -46,7 +46,7 @@ When I'm free,
 </div>
 <br>
 <div align="center">
-<img height="200" width="900" alt="" src="/assets/wordart(1).png" />
+<img height="200" width="1000" alt="" src="/assets/wordart(1).png" />
 </div>
 
 
