@@ -44,6 +44,12 @@ When I'm free,
 <div align="center">
 <img height="250" width="450" alt="" src="/assets/87465.webp" />
 </div>
+
+<div align="center">
+<img height="200" width="700" alt="" src="/assets/wordart(1).png" />
+</div>
+
+
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
