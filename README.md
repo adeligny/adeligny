@@ -6,7 +6,7 @@
 
 ### Welcome to my profile! 
 
-I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.
+<div align="justify">I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.</div>
 
 <img align="right" height="150" width="190" alt="" src="/assets/giphy.webp" />
 
