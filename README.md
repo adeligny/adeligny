@@ -1,3 +1,6 @@
+<img align="center" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" />
+
+
 ## Hi there 👋 I'm Anaïs!
 <a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='25px'/></a>
 <a href='https://www.kaggle.com/anaisdeligny'><img align='left' alt="linkedin" src="assets/5747675.webp" height='25px'/></a>
