@@ -1,4 +1,4 @@
-<img align="right" height="300" width="400" alt="" src="/assets/wordart.png" />
+<img align="right" height="200" width="300" alt="" src="/assets/wordart.png" />
 <img align="center" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" />
 
 
