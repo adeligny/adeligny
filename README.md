@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Anaïs!
-<a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='18px'/></a>
-<a href='https://www.kaggle.com/anaisdeligny'><img align='left' alt="linkedin" src="assets/5747675.webp" height='18px'/></a>
+<a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/174857.png" height='25px'/></a>
+<a href='https://www.kaggle.com/anaisdeligny'><img align='left' alt="linkedin" src="assets/5747675.webp" height='25px'/></a>
 
 <br>
 
