@@ -25,7 +25,7 @@
 <a href="https://www.sas.com/fr_fr/home.html" target="_blank"><img alt="SAS" height ="52px" src="/assets/353456.webp"></a>
 <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi" target="_blank"><img alt="VSC" height ="52px" src="/assets/678966.png"></a>
 <a href="https://cran.rstudio.com/index.html" target="_blank"><img alt="R" height ="52px" src="/assets/545467.png"></a> 
-<a href="" target="_blank"><img alt="R" height ="52px" src="/assets/657695786.png"></a> </div>
+<a href="" target="_blank"><img alt="R" height ="50px" src="/assets/657695786.png"></a> </div>
 
 <br>
 
