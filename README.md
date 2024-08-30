@@ -1,4 +1,4 @@
-<img align="center" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" /><img align="center" height="50" width="150" alt="" src="/assets/wordart.png" />
+<img align="center" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" /><img align="right" height="300" width="400" alt="" src="/assets/wordart.png" />
 
 
 ## Hi there 👋 I'm Anaïs!
