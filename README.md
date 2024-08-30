@@ -18,10 +18,9 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 <a href="" target="_blank"><img align="left" alt="SQL" height ="42px" src="/assets/654334.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSC" height ="42px" src="/assets/6543345.png"></a>
 
-<br>
-<br>
-<br>
+
 <br>I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
+<br>
 
 <img align="center" height="250" width="450" alt="" src="/assets/87465.webp" />
 <!--
