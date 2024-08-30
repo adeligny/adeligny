@@ -32,7 +32,9 @@ When I'm free,
 
 - I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
+<div align="center">
 <img align="center" height="250" width="450" alt="" src="/assets/87465.webp" />
+</div>
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
