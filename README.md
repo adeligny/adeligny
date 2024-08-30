@@ -33,6 +33,8 @@ When I'm free,
 
 - I'm always up for a board game 🎲 or an escape game 🔎... well, except maybe the horror ones.
 
+- I love crêpes parties 🥞, and I also have 100% pure butter blood (I'm from Brittany).
+
 - I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
 <div align="center">
