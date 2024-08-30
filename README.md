@@ -26,14 +26,16 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 
 When I'm free,
 
-- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 🌐.
+- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 👨🏻‍💻.
+
+- At the moment, I'm very interested in designing small video games 🕹️.
 
 - I'm always up for a board game 🎲 or an escape game 🔎... well, except maybe the horror ones.
 
 - I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
 <div align="center">
-<img align="center" height="250" width="450" alt="" src="/assets/87465.webp" />
+<img height="250" width="450" alt="" src="/assets/87465.webp" />
 </div>
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
