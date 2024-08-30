@@ -24,7 +24,11 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 
 ### 👀 More About Me:
 
-I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
+When I'm free,
+
+- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity.
+
+- I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
 <br>
 <img align="center" height="250" width="450" alt="" src="/assets/87465.webp" />
