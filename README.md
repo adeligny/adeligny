@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Anaïs!
-<a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/6747865.png" height='25px'/></a>
+<a href='https://www.linkedin.com/in/anais-deligny/'><img align='left' alt="linkedin" src="/assets/6747865.png" height='45px'/></a>
 <a href='https://www.kaggle.com/anaisdeligny'><img align='left' alt="linkedin" src="assets/54667546.png" height='25px'/></a>
 
 <br>
