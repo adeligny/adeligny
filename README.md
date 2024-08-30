@@ -17,6 +17,7 @@
 <a href="https://cran.rstudio.com/index.html" target="_blank"><img align="left" alt="R" height ="42px" src="/assets/545467.png"></a>
 <a href="" target="_blank"><img align="left" alt="SQL" height ="42px" src="/assets/654334.png"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSC" height ="42px" src="/assets/6543345.png"></a>
+<a href="https://www.microsoft.com/fr-fr/microsoft-365" target="_blank"><img align="left" alt="Office 365" height ="42px" src="/assets/6545644.png"></a>
 
 <br>
 <br> 
