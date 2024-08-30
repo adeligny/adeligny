@@ -49,7 +49,6 @@ When I'm free,
 <img height="150" width="1200" alt="" src="/assets/wordart(1).png" />
 </div>
 <br>
-
 <div align="center">
 <img height="300" width="300" alt="" src="/assets/f0d2f9356833c46a336c1f842432300c.gif" />
 </div>
