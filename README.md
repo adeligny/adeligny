@@ -33,15 +33,15 @@
 
 When I'm free,
 
-- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 👨🏻‍💻.
+- I like to read content or watch videos on <b>ICT-related topics</b> to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 👨🏻‍💻.
 
-- At the moment, I'm very interested in designing small video games 🕹️.
+- At the moment, I'm very interested in <b>designing small video games</b> 🕹️.
 
-- I'm always up for a board game 🎲 or an escape game 🔎... well, except maybe the horror ones.
+- I'm always up for a <b>board game</b> 🎲 or an <b>escape game</b> 🔎... well, except maybe the horror ones.
 
-- I love crêpes parties 🥞, and I also have 100% pure butter blood (I'm from Brittany).
+- I love <b>crêpes parties</b> 🥞, and I also have 100% pure butter blood (I'm from Brittany).
 
-- I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
+- I enjoy playing amateur <b>rugby</b> 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
 <div align="center">
 <img height="250" width="450" alt="" src="/assets/87465.webp" />
