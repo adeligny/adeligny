@@ -28,7 +28,7 @@ When I'm free,
 
 - I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 🌐.
 
-- I'm always up for escape games 🔎... well, except maybe the horror ones.
+- I'm always up for a board game 🎲 or an escape game 🔎... well, except maybe the horror ones.
 
 - I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
