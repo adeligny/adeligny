@@ -26,7 +26,6 @@
 <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi" target="_blank"><img alt="VSC" height ="42px" src="/assets/678966.png"></a>
 <a href="https://cran.rstudio.com/index.html" target="_blank"><img alt="R" height ="42px" src="/assets/545467.png"></a> </div>
 
-<br> 
 <br>
 
 ### 👀 More About Me:
