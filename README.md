@@ -19,7 +19,8 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSC" height ="42px" src="/assets/6543345.png"></a>
 
 <br>
-<br> ### More About Me:
+<br> 
+### More About Me:
 
 I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
