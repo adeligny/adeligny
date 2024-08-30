@@ -51,7 +51,7 @@ When I'm free,
 <br>
 
 <div align="center">
-<img height="200" width="100" alt="" src="/assets/f0d2f9356833c46a336c1f842432300c.gif" />
+<img height="100" width="100" alt="" src="/assets/f0d2f9356833c46a336c1f842432300c.gif" />
 </div>
 
 
