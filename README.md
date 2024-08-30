@@ -8,7 +8,7 @@
 
 I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.
 
-<img align="right" height="250" width="375" alt="" src="/assets/giphy.webp" />
+<img align="right" height="250" width="325" alt="" src="/assets/giphy.webp" />
 
 ### 🛠️ Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="/assets/226051.webp"></a>
