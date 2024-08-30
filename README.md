@@ -15,7 +15,7 @@
 <img align="right" height="180" width="210" alt="" src="/assets/giphy.webp" />
 
 <div align="justify">I am a graduate in <b>Computer Science</b> 💻 and <b>Economics/Management</b> 📈. I'm currently an apprentice <b>Data Analyst</b> at <b>GMF Assurances</b> in the marketing team. Besides that, I'm a Master's student in <b>Innovation Management, Data Science and Communication</b> at the <b>University Paris 1 Panthéon-Sorbonne</b>.
-
+<br>
 At the same time, I plan to take additional courses in data analysis to strengthen my knowledge of statistics and gain a deeper understanding of the main Machine/Deep Learning algorithms, how the Cloud works and Python programming applied to data-driven projects.</div>
 <br>
 👉 Checkout my resume.
