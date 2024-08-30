@@ -26,6 +26,7 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 
 I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
+<br>
 
 <img align="center" height="250" width="450" alt="" src="/assets/87465.webp" />
 <!--
