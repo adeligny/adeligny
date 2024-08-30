@@ -48,6 +48,10 @@ When I'm free,
 <div align="center">
 <img height="150" width="1200" alt="" src="/assets/wordart(1).png" />
 </div>
+<br>
+<div align="center">
+<img height="200" width="100" alt="" src="/assets/f0d2f9356833c46a336c1f842432300c.gif" />
+</div>
 
 
 <!--
