@@ -13,6 +13,7 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 <a href="https://www.sas.com/fr_fr/home.html" target="_blank"><img align="left" alt="SAS" height ="42px" src="/assets/353456.webp"></a>
 <a href="https://cran.rstudio.com/index.html" target="_blank"><img align="left" alt="R" height ="42px" src="/assets/545467.png"></a>
 <a href="" target="_blank"><img align="left" alt="SQL" height ="42px" src="/assets/654334.png"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSC" height ="42px" src="/assets/6543345.png"></a>
 
 <!--
 **adeligny/adeligny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
