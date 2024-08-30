@@ -8,7 +8,7 @@
 
 I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm currently an apprentice Data Analyst at GMF Assurances in the marketing team, and a Master's student in Innovation Management, Data Science and Communication at the University Paris 1 Panthéon-Sorbonne.
 
-<img align="right" height="150" width="200" alt="" src="/assets/giphy.webp" />
+<img align="right" height="150" width="190" alt="" src="/assets/giphy.webp" />
 
 ### 🛠️ Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="/assets/226051.webp"></a>
@@ -26,7 +26,9 @@ I am a graduate in Computer Science 💻 and Economics/Management 📈. I'm curr
 
 When I'm free,
 
-- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity.
+- I like to read content or watch videos on ICT-related topics to learn how to tinker with stuff myself (and help those around me when they need it) or simply out of curiosity 🌐.
+
+- I'm always up for escape games 🔎... well, except maybe the horror ones.
 
 - I enjoy playing amateur rugby 🏈. I'm not sure I'm very good... but I think it's fun!
 <br>
