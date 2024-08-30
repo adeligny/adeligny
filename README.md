@@ -26,7 +26,8 @@
 <a href="" target="_blank"><img alt="R" height ="48px" src="/assets/657695786.png"></a>
 <a href="https://cran.rstudio.com/index.html" target="_blank"><img alt="R" height ="52px" src="/assets/545467.png"></a> 
 <a href="https://www.sas.com/fr_fr/home.html" target="_blank"><img alt="SAS" height ="52px" src="/assets/353456.webp"></a>
-<a href="" target="_blank"><img alt="VSC" height ="52px" src="/assets/6543345.png"></a></div>
+<a href="" target="_blank"><img alt="VSC" height ="52px" src="/assets/6543345.png"></a>
+<a href="" target="_blank"><img alt="Office365" height ="52px" src="/assets/6545644.png"></a></div>
 
 <br>
 
