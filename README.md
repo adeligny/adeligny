@@ -12,7 +12,7 @@
 
 ### Welcome to my profile! 
 
-<img align="right" height="180" width="210" alt="" src="/assets/75756689.webp" />
+<img align="right" height="180" width="290" alt="" src="/assets/75756689.webp" />
 
 <div align="justify">I am a graduate in <b>Computer Science</b> 💻 and <b>Economics/Management</b> 📈. I'm currently an apprentice <b>Data Analyst</b> at <b>GMF Assurances</b> in the marketing team. Besides that, I'm a Master's student in <b>Innovation Management, Data Science and Communication</b> at the <b>University Paris 1 Panthéon-Sorbonne</b>.</div>
 <br>
@@ -52,6 +52,9 @@ When I'm free,
 <img height="150" width="1200" alt="" src="/assets/wordart(1).png" />
 </div>
 <br>
+<div align="center">
+<img height="180" width="290" alt="" src="/assets/76545678.webp" />
+</div>
 
 
 
