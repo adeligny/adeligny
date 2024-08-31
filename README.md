@@ -53,7 +53,7 @@ When I'm free,
 </div>
 <br>
 <div align="center">
-<img height="180" width="290" alt="" src="/assets/76545678.webp" />
+<img height="180" width="270" alt="" src="/assets/76545678.webp" />
 </div>
 
 
