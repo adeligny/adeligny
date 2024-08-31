@@ -1,6 +1,7 @@
-<div align="center"><img height="200" width="700" alt="" src="/assets/wordart2.png" /></div>
-
-<img align="left" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" />
+<div align="center">
+<img height="200" width="700" alt="" src="/assets/wordart2.png" />
+</div>
+<img align="center" height="50" width="50" alt="" src="/assets/tux-linux-penguin.gif" />
 
 
 ## Hi there 👋 I'm Anaïs!
@@ -11,7 +12,7 @@
 
 ### Welcome to my profile! 
 
-<img align="right" height="180" width="290" alt="" src="/assets/75756689.webp" />
+<img align="right" height="180" width="210" alt="" src="/assets/75756689.webp" />
 
 <div align="justify">I am a graduate in <b>Computer Science</b> 💻 and <b>Economics/Management</b> 📈. I'm currently an apprentice <b>Data Analyst</b> at <b>GMF Assurances</b> in the marketing team. Besides that, I'm a Master's student in <b>Innovation Management, Data Science and Communication</b> at the <b>University Paris 1 Panthéon-Sorbonne</b>.</div>
 <br>
